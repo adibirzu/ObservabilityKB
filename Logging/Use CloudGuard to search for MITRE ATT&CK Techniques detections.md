@@ -1,4 +1,4 @@
-### Use CloudGuard to search for MITRE ATT&CK Techiniques detections
+### Use CloudGuard to search for MITRE ATT&CK Techniques detections
 
 On my previous [blog](https://learnoci.cloud/use-auditd-logs-in-oci-with-logging-service-5caa13719315) entry, I have shown how to leverage AuditD data in OCI Logging service. Now I will use the OCI Logging Service search option to create some MITRE ATT&CK Searches that will be used by Cloud Guard Insight Rules.
 
